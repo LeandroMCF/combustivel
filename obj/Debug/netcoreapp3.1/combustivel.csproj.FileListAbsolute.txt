@@ -1,0 +1,13 @@
+C:\Users\leand\OneDrive\Área de Trabalho\combustivel\bin\Debug\netcoreapp3.1\combustivel.exe
+C:\Users\leand\OneDrive\Área de Trabalho\combustivel\bin\Debug\netcoreapp3.1\combustivel.deps.json
+C:\Users\leand\OneDrive\Área de Trabalho\combustivel\bin\Debug\netcoreapp3.1\combustivel.runtimeconfig.json
+C:\Users\leand\OneDrive\Área de Trabalho\combustivel\bin\Debug\netcoreapp3.1\combustivel.runtimeconfig.dev.json
+C:\Users\leand\OneDrive\Área de Trabalho\combustivel\bin\Debug\netcoreapp3.1\combustivel.dll
+C:\Users\leand\OneDrive\Área de Trabalho\combustivel\bin\Debug\netcoreapp3.1\combustivel.pdb
+C:\Users\leand\OneDrive\Área de Trabalho\combustivel\obj\Debug\netcoreapp3.1\combustivel.csprojAssemblyReference.cache
+C:\Users\leand\OneDrive\Área de Trabalho\combustivel\obj\Debug\netcoreapp3.1\combustivel.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Área de Trabalho\combustivel\obj\Debug\netcoreapp3.1\combustivel.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Área de Trabalho\combustivel\obj\Debug\netcoreapp3.1\combustivel.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Área de Trabalho\combustivel\obj\Debug\netcoreapp3.1\combustivel.dll
+C:\Users\leand\OneDrive\Área de Trabalho\combustivel\obj\Debug\netcoreapp3.1\combustivel.pdb
+C:\Users\leand\OneDrive\Área de Trabalho\combustivel\obj\Debug\netcoreapp3.1\combustivel.genruntimeconfig.cache

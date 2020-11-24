@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xt5/tzpgeS04m6jjol0HcpPnfxkBWggNCtvOKr63lW3YnqSIndd+gUF1+doFGoQS6Cxh6RHf4mNneW1rqd3xuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leand\\OneDrive\\Área de Trabalho\\combustivel\\combustivel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leand\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
